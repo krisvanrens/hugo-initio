@@ -31,13 +31,10 @@
 
 			{{ if .Site.Params.showFooterTextWidget }}
 			<div class="col-md-3 widget">
-				<h3 class="widget-title">Text widget</h3>
+				<h3 class="widget-title">Custom requests</h3>
 				<div class="widget-body">
 					<p>
-						{{ i18n "footer_text1" . | markdownify }}
-					</p>
-					<p>
-						{{ i18n "footer_text2" . | markdownify }}
+						{{ i18n "footer_text" . | markdownify }}
 					</p>
 				</div>
 			</div>
@@ -74,7 +71,7 @@
 				<div class="widget-body">
 					<p class="text-right">
 						Copyright &copy; {{ .Site.Params.year }}, {{ .Site.Params.name }}<br>
-						Design: <a href="http://www.gettemplate.com" rel="designer">Initio by GetTemplate</a> - 
+						Design: <a href="http://www.gettemplate.com" rel="designer">Initio by GetTemplate</a> -
 						Powered by: <a href="https://gohugo.io/" rel="poweredby">Hugo</a>
 					</p>
 				</div>

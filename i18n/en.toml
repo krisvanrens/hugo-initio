@@ -12,7 +12,5 @@
 [404_description]
     other = "Oops! This page doesn't exist!"
 
-[footer_text1]
-    other = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, nihil natus explicabo ipsum quia iste aliquid repellat eveniet velit ipsa sunt libero sed aperiam id soluta officia asperiores adipisci maxime!"
-[footer_text2]
-    other = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, nihil natus explicabo ipsum quia iste aliquid repellat eveniet velit ipsa sunt libero sed aperiam id soluta officia asperiores adipisci maxime!"
+[footer_text]
+    other = "Reach out to me if you have a request for a custom topic / training!"

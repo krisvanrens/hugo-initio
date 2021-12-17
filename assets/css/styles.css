@@ -372,8 +372,8 @@ img {
 }
 /* Section - Featured */
 .featured {
-  font-size: 13px;
-  font-size: 0.8125rem;
+  font-size: 14px;
+  font-size: 0.82rem;
 }
 .featured h3 {
   font-weight: bold;
@@ -395,8 +395,8 @@ img {
 .thumbnails .details {
   display: block;
   text-align: center;
-  font-size: 12px;
-  font-size: 0.75rem;
+  font-size: 13px;
+  font-size: 0.80rem;
   margin-bottom: 40px;
 }
 .thumbnail {

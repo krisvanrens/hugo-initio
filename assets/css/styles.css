@@ -281,7 +281,7 @@ a:hover {
 }
 .home #head .tagline {
   font-size: 16px;
-  font-size: 1rem;
+  font-size: 0.875rem;
   margin: 15px 0 0;
 }
 /*********************************************************************
@@ -374,6 +374,7 @@ img {
 .featured {
   font-size: 14px;
   font-size: 0.82rem;
+  margin: 0 5px 0 5px;
 }
 .featured h3 {
   font-weight: bold;
@@ -387,7 +388,7 @@ img {
 }
 /* Section - Recent works */
 .thumbnails {
-  padding: 0;
+  padding: 0px;
 }
 .thumbnails li {
   margin-bottom: 30px;
